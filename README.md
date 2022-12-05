@@ -8,8 +8,8 @@ I am a MERN Stack developer, Currently, I am seeking a job to learn new technolo
 <div style="display:flex; flex-direction: column; align-items: center;">
 <img src='https://github-readme-stats.vercel.app/api?username=motochowdhury&theme=dark&hide_border=true&include_all_commits=true&count_private=true' />
 <img src='https://github-readme-streak-stats.herokuapp.com/?user=motochowdhury&theme=dark&hide_border=true' />
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=motochowdhury&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact' />
 </div>
-<br/>
-<br/>
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=motochowdhury&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact' />
+
+
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/motochowdhury) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/motoc)
